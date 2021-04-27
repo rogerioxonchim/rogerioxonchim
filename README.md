@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 " style="max-width:100%;">
 </a>
 
-<img align="right" src="https://github.com/josepholiveira/josepholiveira/raw/master/images/illustration.png" width="300" style="max-width:100%;">
 <a href="https://api.whatsapp.com/send?phone=5518998087813&text=WhatsApp"  target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;">
 </a>
