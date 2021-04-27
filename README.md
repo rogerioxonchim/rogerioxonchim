@@ -1,7 +1,9 @@
-### Hi there 👋
+### Seja Bem Vindo(a) 👋
 
 <!--
 **rogerioxonchim/rogerioxonchim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Linkedin_Badge](https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/)
 
 Here are some ideas to get you started:
 
