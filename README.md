@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 # Rogério Xonchim Alves Correa
 
 <a href="https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/" target="_blank">
-  <img align="center" alt="Rogério Xonchim - Linkedin" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
+  <img align="center" alt="Rogério Xonchim - Linkedin" heigth="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
