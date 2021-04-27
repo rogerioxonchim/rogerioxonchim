@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 # Rogério Xonchim Alves Correa
 
-[![Linkedin_Badge] (https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/)
+[![Linkedin Badge] (https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/)
 
