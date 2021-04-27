@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Rogério Xonchim Alves Correa
 
 <a href="https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/" target="_blank">
-  <img align="center" alt="Rogério Xonchim - Linkedin" heigth="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
+  <img align="center" alt="Rogério Xonchim - Linkedin" heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a><a href="https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/" target="_blank">
-  <img align="center" alt="Rogério Xonchim - Instagram" heigth="30" width="30" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" style="max-width:100%;">
+  <img align="center" alt="Rogério Xonchim - Instagram" heigth="50" width="50" src="https://image.flaticon.com/icons/png/128/2111/2111463.png" style="max-width:100%;">
 </a>
