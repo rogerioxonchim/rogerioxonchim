@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 [![Linkedin_Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Link=https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/)](https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/)
 
 [![Linkedin_Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&Link=https://www.instagram.com/rogerioxonchim/)](https://www.instagram.com/rogerioxonchim/)
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" data-canonical-src="https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/" style="max-width:100%;">
