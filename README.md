@@ -1,4 +1,4 @@
-### Seja Bem Vindo(a) ao meu perfil 👋
+### Seja Bem Vindo(a) ao Meu Perfil 👋
 
 <!--
 **rogerioxonchim/rogerioxonchim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
