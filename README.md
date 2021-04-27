@@ -38,5 +38,8 @@ Here are some ideas to get you started:
 <a href="https://api.whatsapp.com/send?phone=5518998087813&text=WhatsApp"  target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;">
 </a>
+<a href="www.voti.com.br"  target="_blank">
+  <img src="https://img.shields.io/badge/Website-00BB00?style=for-the-badge" alt="WebSite Badge" data-canonical-src="https://img.shields.io/badge/Website-00BB00?style=for-the-badge" style="max-width:100%;">
+</a>
 
 <img align="right" src="https://github.com/rogerioxonchim/images/blob/main/Illustration.png" width="300" style="max-width:100%;">
