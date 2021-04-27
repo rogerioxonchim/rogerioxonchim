@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Rogério Xonchim Alves Correa
 
 ## Contate-me no:
-[![Linkedin_Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&LogoColor=white&Link=https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/)(https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/)
+[![Linkedin_Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&LogoColor=white&Link=https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/)](https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/)
 
 <a href="https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/" target="popup">
   <img align="center" alt="Rogério Xonchim - Linkedin" heigth="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
