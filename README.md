@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 # Rogério Xonchim Alves Correa
 
-[![Linkedin Badge] (https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/)
-
+<a href="https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/" target="_blank">
+  <img align="center" alt="Rogério Xonchim - Linkedin" heigth="40" width="40" src="https://www.linkedin.com/in/rog%C3%A9rio-xonchim-b3b3a717/" style="max-width:100%;">
+</a>
